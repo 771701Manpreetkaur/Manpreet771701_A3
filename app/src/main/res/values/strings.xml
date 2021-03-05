@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AS4</string>
+    <string name="cadidate1">Candidate 1:</string>
+    <string name="cadidate2">Candidate 2:</string>
+    <string name="cadidate3">Candidate 3:</string>
+    <string name="vote">Vote</string>
+    <string name="Name">Name</string>
+    <string name="vote_please">Vote Please</string>
+    <string name="hintname">write yout name</string>
+    <string name="id">ID</string>
+    <string name="hintid">Write Your ID</string>
+    <string name="refuse">Refuse</string>
+    <string name="accept">Accept</string>
+</resources>
